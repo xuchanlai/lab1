@@ -1,0 +1,28 @@
+Script started on 2019年03月 4日 下午 02:25:35
+]0;~
+[32muser@DESKTOP-3EPNJ26 [33m~[0m
+$ WH[K[Kwhoami;pwd
+user
+/cygdrive/c/Users/user/AppData/Roaming/SPB_16.6
+]0;~
+[32muser@DESKTOP-3EPNJ26 [33m~[0m
+$ git congif[K[K[Kfig -L[KL[Kl
+[?1h=user.email=suechanlai0000@gmail.com[m
+user.name=xuchanlai[m
+core.repositoryformatversion=0[m
+core.filemode=true[m
+core.bare=false[m
+core.logallrefupdates=true[m
+core.ignorecase=true[m
+remote.lab1.url=https://xuchanlai:abc19980214@github.com/NCKUEECS2/LAB1-xuchanlai.git[m
+remote.lab1.fetch=+refs/heads/*:refs/remotes/lab1/*[m
+[K[?1l>]0;~
+[32muser@DESKTOP-3EPNJ26 [33m~[0m
+$ r[Kgit clone https://github.com/xuchanlai/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;~
+[32muser@DESKTOP-3EPNJ26 [33m~[0m
+$ exit
+
+Script done on 2019年03月 4日 下午 02:27:42
